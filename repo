@@ -1,4 +1,0 @@
-a = int(input("1. rakam: "))
-b = int(input(2. rakam: "))
-c = (a*b)
-print(c)
